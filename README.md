@@ -309,13 +309,23 @@ Portfolio: [awais.calcstack.co](https://awais.calcstack.co/)
 
 ## Authentication & Security
 
+### Auth Providers
+| Tool | Usage |
+|---|---|
+| ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) | Drop-in auth UI, session management, user management, Next.js integration |
+| ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white) | Universal login, SSO, machine-to-machine auth, RBAC |
+| ![Custom Auth](https://img.shields.io/badge/Custom_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white) | Hand-rolled JWT (access + refresh tokens), Passport.js strategies |
+
+### Auth Patterns & Security
 | Tool / Pattern | Usage |
 |---|---|
 | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) | Access + refresh token authentication |
-| ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat&logo=auth0&logoColor=white) | Social login, third-party authorization |
-| ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=white) | Authentication middleware (NestJS/Express) |
-| RBAC / CASL | Role-based access control |
-| Wallet Auth | Web3 wallet-based signature authentication |
+| ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=flat&logo=auth0&logoColor=white) | Social login, third-party authorization (Google, GitHub, etc.) |
+| ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=white) | Authentication middleware (NestJS/Express) — local, JWT, OAuth strategies |
+| ![CASL](https://img.shields.io/badge/CASL-FF6600?style=flat&logo=nestjs&logoColor=white) | Attribute-based access control (fine-grained permissions per resource) |
+| NestJS Guards + Reflector | Custom `@Roles()` decorator, `RolesGuard`, multi-role RBAC via `SetMetadata` |
+| ![Throttler](https://img.shields.io/badge/@nestjs/throttler-E0234E?style=flat&logo=nestjs&logoColor=white) | Rate limiting guard (per-route, per-user throttling) |
+| Wallet Auth | Web3 wallet-based signature authentication (Privy, Phantom, MetaMask) |
 | CORS / CSRF / XSS | Security best practices & prevention |
 | Rate Limiting | Throttle APIs (Redis-backed) |
 
