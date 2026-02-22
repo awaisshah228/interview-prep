@@ -1249,6 +1249,7 @@ add(1)(2, 3);    // 6
 |---|---|
 | Event Loop Visualization | [Loupe - Philip Roberts](http://latentflip.com/loupe/) — Interactive event loop visualizer |
 | Event Loop Deep Dive | [Jake Archibald: In The Loop (JSConf)](https://www.youtube.com/watch?v=cCOL7MC4Pl0) — Best video explanation |
+| Event Loop Visualized | [Event Loop Visualized (YouTube)](https://www.youtube.com/watch?v=eiC58R16hb8&t=540s) |
 | Microtasks vs Macrotasks | [javascript.info - Event Loop](https://javascript.info/event-loop) |
 | Promises In-Depth | [javascript.info - Promises](https://javascript.info/promise-basics) |
 | async/await | [MDN - async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) |

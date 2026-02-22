@@ -1143,6 +1143,7 @@ export class RedisThrottlerStorage implements ThrottlerStorage {
 |---|---|
 | Node.js Event Loop | [Node.js Event Loop (Official)](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick) |
 | Event Loop Visualized | [Lydia Hallie - JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif) |
+| Event Loop Video | [Event Loop Visualized (YouTube)](https://www.youtube.com/watch?v=eiC58R16hb8&t=540s) |
 | Node.js Streams | [Node.js Streams Handbook](https://nodejs.org/api/stream.html) |
 | Streams Guide | [Node.js Streams: Everything You Need to Know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/) |
 | Worker Threads | [Node.js Worker Threads](https://nodejs.org/api/worker_threads.html) |
