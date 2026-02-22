@@ -661,5 +661,61 @@ Your setup: Rolling update on ECS Fargate with health checks
 
 ---
 
+## References & Deep Dive Resources
+
+### Docker
+| Topic | Resource |
+|---|---|
+| Docker Docs (Official) | [docs.docker.com](https://docs.docker.com/) |
+| Dockerfile Best Practices | [Docker - Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) |
+| Multi-stage Builds | [Docker - Multi-stage Builds](https://docs.docker.com/build/building/multi-stage/) |
+| Docker Compose | [Docker Compose Docs](https://docs.docker.com/compose/) |
+| Docker Networking | [Docker - Networking Overview](https://docs.docker.com/network/) |
+| Docker Security | [Docker - Security Best Practices](https://docs.docker.com/develop/security-best-practices/) |
+| Dive (Image Inspector) | [wagoodman/dive](https://github.com/wagoodman/dive) — Explore Docker image layers |
+| Node.js Docker Guide | [Node.js Docker Best Practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md) |
+
+### CI/CD
+| Topic | Resource |
+|---|---|
+| GitHub Actions Docs | [docs.github.com/actions](https://docs.github.com/en/actions) |
+| GitHub Actions Marketplace | [github.com/marketplace?type=actions](https://github.com/marketplace?type=actions) |
+| Reusable Workflows | [GitHub - Reusable Workflows](https://docs.github.com/en/actions/using-workflows/reusing-workflows) |
+| Matrix Strategy | [GitHub - Matrix Strategy](https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs) |
+| GitHub Actions Caching | [GitHub - Caching Dependencies](https://docs.github.com/en/actions/using-workflows/caching-dependencies-to-speed-up-workflows) |
+| CI/CD Best Practices | [GitLab CI/CD Best Practices](https://docs.gitlab.com/ee/ci/pipelines/pipeline_efficiency.html) |
+
+### Terraform
+| Topic | Resource |
+|---|---|
+| Terraform Docs | [developer.hashicorp.com/terraform](https://developer.hashicorp.com/terraform/docs) |
+| Terraform Best Practices | [Terraform - Style Guide](https://developer.hashicorp.com/terraform/language/style) |
+| Terraform State | [Terraform - State Management](https://developer.hashicorp.com/terraform/language/state) |
+| Terraform Modules | [Terraform - Modules](https://developer.hashicorp.com/terraform/language/modules) |
+| AWS Modules | [registry.terraform.io/namespaces/terraform-aws-modules](https://registry.terraform.io/namespaces/terraform-aws-modules) |
+| Terraform vs CloudFormation | [spacelift.io - Terraform vs CloudFormation](https://spacelift.io/blog/terraform-vs-cloudformation) |
+
+### Monitoring & Observability
+| Topic | Resource |
+|---|---|
+| Prometheus Docs | [prometheus.io/docs](https://prometheus.io/docs/) |
+| Grafana Docs | [grafana.com/docs](https://grafana.com/docs/) |
+| New Relic Docs | [docs.newrelic.com](https://docs.newrelic.com/) |
+| OpenTelemetry | [opentelemetry.io](https://opentelemetry.io/) — Vendor-neutral observability |
+| SRE Book (Free) | [sre.google/sre-book](https://sre.google/sre-book/table-of-contents/) — Google SRE Book |
+| RED Method | [Grafana - RED Method](https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/) |
+| USE Method | [Brendan Gregg - USE Method](https://www.brendangregg.com/usemethod.html) |
+| SonarQube | [sonarqube.org](https://www.sonarqube.org/) |
+
+### Deployment Strategies
+| Topic | Resource |
+|---|---|
+| Blue/Green on AWS | [AWS - Blue/Green Deployments](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html) |
+| Canary Deployments | [martinfowler.com - Canary Release](https://martinfowler.com/bliki/CanaryRelease.html) |
+| Rolling Updates (ECS) | [AWS - ECS Rolling Updates](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/deployment-type-ecs.html) |
+| Feature Flags | [launchdarkly.com/blog](https://launchdarkly.com/blog/) — Feature flag patterns |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [AWS Cloud](./06-aws.md) | **Next**: [Web3 & Blockchain](./08-web3-blockchain.md)

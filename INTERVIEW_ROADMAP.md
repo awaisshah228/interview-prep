@@ -4,6 +4,25 @@
 
 ---
 
+## Detailed Q&A Files (by Domain)
+
+| # | Domain | Q&A File | Questions |
+|---|---|---|---|
+| 1 | JavaScript & TypeScript | [01-javascript-typescript.md](./questions/01-javascript-typescript.md) | 25 |
+| 2 | React & Next.js | [02-react-nextjs.md](./questions/02-react-nextjs.md) | 20 |
+| 3 | Node.js, NestJS & Express | [03-nodejs-nestjs.md](./questions/03-nodejs-nestjs.md) | 16 |
+| 4 | Databases (MongoDB & PostgreSQL) | [04-databases.md](./questions/04-databases.md) | 15 |
+| 5 | System Design & Architecture | [05-system-design.md](./questions/05-system-design.md) | 11 |
+| 6 | AWS Cloud Services | [06-aws.md](./questions/06-aws.md) | 11 |
+| 7 | DevOps, Docker & CI/CD | [07-devops.md](./questions/07-devops.md) | 9 |
+| 8 | Web3 & Blockchain | [08-web3-blockchain.md](./questions/08-web3-blockchain.md) | 13 |
+| 9 | AI Integration | [09-ai-integration.md](./questions/09-ai-integration.md) | 9 |
+| 10 | Security & Authentication | [10-security-auth.md](./questions/10-security-auth.md) | 6 |
+| 11 | Behavioral & DSA | [11-behavioral-dsa.md](./questions/11-behavioral-dsa.md) | 8 + patterns |
+| - | **All-in-one (combined)** | [INTERVIEW_QA.md](./INTERVIEW_QA.md) | 46 |
+
+---
+
 ## Table of Contents
 
 1. [JavaScript & TypeScript Core](#1-javascript--typescript-core)

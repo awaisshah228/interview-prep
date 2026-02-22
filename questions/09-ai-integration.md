@@ -632,5 +632,72 @@ Risk Management:
 
 ---
 
+## References & Deep Dive Resources
+
+### AI/LLM Fundamentals
+| Topic | Resource |
+|---|---|
+| What are LLMs? | [Google - Introduction to Large Language Models](https://developers.google.com/machine-learning/resources/intro-llms) |
+| Prompt Engineering Guide | [promptingguide.ai](https://www.promptingguide.ai/) — Comprehensive guide |
+| OpenAI Prompt Engineering | [OpenAI - Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) |
+| Tokens Explained | [OpenAI - Tokenizer](https://platform.openai.com/tokenizer) — Visual tokenizer |
+| AI for Engineers | [Chip Huyen - Building LLM Applications](https://huyenchip.com/2023/04/11/llm-engineering.html) |
+
+### LangChain
+| Topic | Resource |
+|---|---|
+| LangChain JS Docs | [js.langchain.com](https://js.langchain.com/docs/) |
+| LangChain Conceptual Guide | [LangChain - Concepts](https://js.langchain.com/docs/concepts/) |
+| LCEL (Expression Language) | [LangChain - LCEL](https://js.langchain.com/docs/concepts/lcel/) |
+| LangChain Agents | [LangChain - Agents](https://js.langchain.com/docs/concepts/agents/) |
+| LangChain Templates | [LangChain Hub](https://smith.langchain.com/hub) |
+| LangSmith (Tracing) | [smith.langchain.com](https://smith.langchain.com/) — Debug & monitor LLM apps |
+
+### RAG (Retrieval-Augmented Generation)
+| Topic | Resource |
+|---|---|
+| RAG Explained | [AWS - What is RAG?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) |
+| RAG Best Practices | [Pinecone - RAG](https://www.pinecone.io/learn/retrieval-augmented-generation/) |
+| Text Splitting Strategies | [LangChain - Text Splitters](https://js.langchain.com/docs/concepts/text_splitters/) |
+| Embeddings Guide | [OpenAI - Embeddings](https://platform.openai.com/docs/guides/embeddings) |
+| Vector Database Comparison | [superlinked.com - Vector DB Comparison](https://superlinked.com/vector-db-comparison/) |
+
+### Vector Databases
+| Topic | Resource |
+|---|---|
+| Pinecone Docs | [docs.pinecone.io](https://docs.pinecone.io/) |
+| Weaviate Docs | [weaviate.io/developers](https://weaviate.io/developers/weaviate) |
+| Chroma (Local) | [docs.trychroma.com](https://docs.trychroma.com/) |
+| pgvector (PostgreSQL) | [github.com/pgvector/pgvector](https://github.com/pgvector/pgvector) |
+
+### AI APIs
+| Topic | Resource |
+|---|---|
+| OpenAI API Docs | [platform.openai.com/docs](https://platform.openai.com/docs/) |
+| OpenAI Function Calling | [OpenAI - Function Calling](https://platform.openai.com/docs/guides/function-calling) |
+| OpenAI Streaming | [OpenAI - Streaming](https://platform.openai.com/docs/api-reference/streaming) |
+| Anthropic (Claude) Docs | [docs.anthropic.com](https://docs.anthropic.com/) |
+| Claude Tool Use | [Anthropic - Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) |
+| Vercel AI SDK | [sdk.vercel.ai](https://sdk.vercel.ai/) — Framework for AI streaming UI |
+
+### Computer Vision (YOLO, CVAT)
+| Topic | Resource |
+|---|---|
+| Ultralytics YOLOv8 | [docs.ultralytics.com](https://docs.ultralytics.com/) |
+| CVAT Docs | [docs.cvat.ai](https://docs.cvat.ai/) |
+| CVAT GitHub | [github.com/cvat-ai/cvat](https://github.com/cvat-ai/cvat) |
+| Object Detection Basics | [paperswithcode.com - Object Detection](https://paperswithcode.com/task/object-detection) |
+| YOLO Explained | [Ultralytics - What is YOLOv8](https://docs.ultralytics.com/models/yolov8/) |
+
+### AI in Production
+| Topic | Resource |
+|---|---|
+| AI Engineering (Book) | [Chip Huyen - AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) |
+| Cost Optimization | [OpenAI - Managing Costs](https://platform.openai.com/docs/guides/rate-limits/usage-tiers) |
+| AI Observability | [LangSmith](https://smith.langchain.com/) / [Helicone](https://www.helicone.ai/) |
+| Guardrails | [guardrailsai.com](https://www.guardrailsai.com/) — AI output validation |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [Web3 & Blockchain](./08-web3-blockchain.md) | **Next**: [Security & Auth](./10-security-auth.md)

@@ -601,5 +601,64 @@ function topKFrequent(nums, k) {
 
 ---
 
+## References & Deep Dive Resources
+
+### Behavioral Interview
+| Topic | Resource |
+|---|---|
+| STAR Method | [indeed.com - STAR Method](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique) |
+| Behavioral Questions | [techinterviewhandbook.org - Behavioral](https://www.techinterviewhandbook.org/behavioral-interview/) |
+| Amazon Leadership Principles | [amazon.jobs - Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) — Common framework |
+| Grokking the Behavioral | [educative.io - Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview) |
+
+### DSA Learning
+| Topic | Resource |
+|---|---|
+| NeetCode.io | [neetcode.io](https://neetcode.io/) — Best curated problem list + video explanations |
+| NeetCode 150 | [neetcode.io/practice](https://neetcode.io/practice) — 150 must-solve problems by pattern |
+| Blind 75 | [neetcode.io/practice](https://neetcode.io/practice) — Original 75 problems |
+| LeetCode | [leetcode.com](https://leetcode.com/) |
+| Tech Interview Handbook | [techinterviewhandbook.org](https://www.techinterviewhandbook.org/) |
+| Grind 75 | [grind75.com](https://www.grind75.com/) — Customizable study plan |
+
+### DSA by Pattern
+| Pattern | Resource |
+|---|---|
+| Two Pointers | [NeetCode - Two Pointers (YouTube)](https://www.youtube.com/watch?v=cQ1Oz4ckceM) |
+| Sliding Window | [NeetCode - Sliding Window (YouTube)](https://www.youtube.com/watch?v=p-ss2JNynmw) |
+| Binary Search | [NeetCode - Binary Search (YouTube)](https://www.youtube.com/watch?v=W9QJ8HaRvJQ) |
+| Trees / DFS / BFS | [NeetCode - Trees (YouTube)](https://www.youtube.com/watch?v=OnSn2XEQ4MY) |
+| Dynamic Programming | [NeetCode - DP (YouTube playlist)](https://www.youtube.com/watch?v=73r3KWiEvyk) |
+| Graphs | [NeetCode - Graphs (YouTube)](https://www.youtube.com/watch?v=EgI5nU9etnU) |
+| Backtracking | [NeetCode - Backtracking (YouTube)](https://www.youtube.com/watch?v=GBKI9VSKdGg) |
+| Heap / Priority Queue | [NeetCode - Heap (YouTube)](https://www.youtube.com/watch?v=t0Cq6tVNRBA) |
+| Stack | [NeetCode - Stack (YouTube)](https://www.youtube.com/watch?v=WTzjTskDFMg) |
+| Linked List | [NeetCode - Linked List (YouTube)](https://www.youtube.com/watch?v=G0_I-ZF0S38) |
+
+### DSA Visualization
+| Topic | Resource |
+|---|---|
+| VisuAlgo | [visualgo.net](https://visualgo.net/) — Visualize algorithms & data structures |
+| Algorithm Visualizer | [algorithm-visualizer.org](https://algorithm-visualizer.org/) |
+| Big-O Cheat Sheet | [bigocheatsheet.com](https://www.bigocheatsheet.com/) |
+| Sorting Algorithms | [sorting.at](https://sorting.at/) — Visual comparison of sorts |
+
+### System Design Interview
+| Topic | Resource |
+|---|---|
+| Tech Interview Handbook - SD | [techinterviewhandbook.org/system-design](https://www.techinterviewhandbook.org/system-design/) |
+| Gaurav Sen (YouTube) | [Gaurav Sen (YouTube)](https://www.youtube.com/@gaborsen) — System design videos |
+| Exponent Mock Interviews | [tryexponent.com](https://www.tryexponent.com/) — Mock interview practice |
+
+### General Interview Prep
+| Topic | Resource |
+|---|---|
+| Levels.fyi | [levels.fyi](https://www.levels.fyi/) — Salary data by company |
+| Glassdoor | [glassdoor.com](https://www.glassdoor.com/) — Interview questions by company |
+| Pramp | [pramp.com](https://www.pramp.com/) — Free mock interviews with peers |
+| Interviewing.io | [interviewing.io](https://interviewing.io/) — Mock interviews with engineers |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [Security & Auth](./10-security-auth.md)

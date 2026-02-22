@@ -1242,5 +1242,73 @@ add(1)(2, 3);    // 6
 
 ---
 
+## References & Deep Dive Resources
+
+### Event Loop & Async
+| Topic | Resource |
+|---|---|
+| Event Loop Visualization | [Loupe - Philip Roberts](http://latentflip.com/loupe/) — Interactive event loop visualizer |
+| Event Loop Deep Dive | [Jake Archibald: In The Loop (JSConf)](https://www.youtube.com/watch?v=cCOL7MC4Pl0) — Best video explanation |
+| Microtasks vs Macrotasks | [javascript.info - Event Loop](https://javascript.info/event-loop) |
+| Promises In-Depth | [javascript.info - Promises](https://javascript.info/promise-basics) |
+| async/await | [MDN - async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) |
+
+### Closures, Scope & `this`
+| Topic | Resource |
+|---|---|
+| Closures | [MDN - Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) |
+| `this` keyword | [javascript.info - Object methods, this](https://javascript.info/object-methods) |
+| Scope Chain | [javascript.info - Variable scope, closure](https://javascript.info/closure) |
+| Hoisting Explained | [MDN - Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting) |
+| call/apply/bind | [javascript.info - Function binding](https://javascript.info/bind) |
+
+### Prototypes & OOP
+| Topic | Resource |
+|---|---|
+| Prototypal Inheritance | [javascript.info - Prototypal inheritance](https://javascript.info/prototype-inheritance) |
+| Classes in JS | [MDN - Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) |
+| Object.create | [MDN - Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create) |
+
+### ES6+ Features
+| Topic | Resource |
+|---|---|
+| Proxy & Reflect | [javascript.info - Proxy and Reflect](https://javascript.info/proxy) |
+| Generators | [javascript.info - Generators](https://javascript.info/generators) |
+| Symbols | [javascript.info - Symbol type](https://javascript.info/symbol) |
+| WeakMap & WeakSet | [javascript.info - WeakMap and WeakSet](https://javascript.info/weakmap-weakset) |
+| Map & Set | [javascript.info - Map and Set](https://javascript.info/map-set) |
+| Destructuring | [javascript.info - Destructuring](https://javascript.info/destructuring-assignment) |
+| Optional Chaining | [MDN - Optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) |
+
+### TypeScript
+| Topic | Resource |
+|---|---|
+| TS Handbook (Official) | [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) |
+| Generics | [TS Handbook - Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html) |
+| Utility Types | [TS Handbook - Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html) |
+| Conditional Types | [TS Handbook - Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html) |
+| `satisfies` operator | [TS 4.9 Release Notes](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-9.html) |
+| Discriminated Unions | [TS Handbook - Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#discriminated-unions) |
+| Template Literal Types | [TS Handbook - Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html) |
+| Type Challenges | [type-challenges GitHub](https://github.com/type-challenges/type-challenges) — Practice TS puzzles |
+| Matt Pocock TS Tips | [TotalTypeScript.com](https://www.totaltypescript.com/) — Best TS video tutorials |
+
+### Memory & Performance
+| Topic | Resource |
+|---|---|
+| Memory Leaks | [Chrome DevTools - Memory](https://developer.chrome.com/docs/devtools/memory-problems/) |
+| Garbage Collection | [javascript.info - Garbage collection](https://javascript.info/garbage-collection) |
+| V8 Engine Internals | [V8 Blog](https://v8.dev/blog) |
+
+### Coding Practice
+| Topic | Resource |
+|---|---|
+| Debounce/Throttle | [CSS-Tricks - Debouncing and Throttling](https://css-tricks.com/debouncing-throttling-explained-examples/) |
+| Deep Clone | [structuredClone MDN](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone) |
+| Currying | [javascript.info - Currying](https://javascript.info/currying-partials) |
+| JS Interview Questions | [70 JS Interview Questions](https://github.com/sudheerj/javascript-interview-questions) |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Next**: [React & Next.js Q&A](./02-react-nextjs.md)

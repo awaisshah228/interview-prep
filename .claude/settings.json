@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:awais.calcstack.co)"
+      "WebFetch(domain:awais.calcstack.co)",
+      "Bash(wc:*)"
     ]
   }
 }

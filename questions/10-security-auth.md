@@ -451,5 +451,63 @@ async function loginWithWallet() {
 
 ---
 
+## References & Deep Dive Resources
+
+### Authentication
+| Topic | Resource |
+|---|---|
+| JWT.io | [jwt.io](https://jwt.io/) — JWT decoder & debugger |
+| JWT Handbook (Auth0) | [auth0.com/resources/ebooks/jwt-handbook](https://auth0.com/resources/ebooks/jwt-handbook) |
+| Access + Refresh Tokens | [Auth0 - Refresh Token Rotation](https://auth0.com/docs/secure/tokens/refresh-tokens/refresh-token-rotation) |
+| Bcrypt | [npmjs.com/package/bcrypt](https://www.npmjs.com/package/bcrypt) |
+| Passport.js Docs | [passportjs.org](https://www.passportjs.org/) |
+| NestJS Authentication | [NestJS - Authentication](https://docs.nestjs.com/security/authentication) |
+
+### OAuth 2.0 / OIDC
+| Topic | Resource |
+|---|---|
+| OAuth 2.0 Simplified | [oauth.net/2/](https://oauth.net/2/) |
+| OAuth 2.0 Flows Explained | [Auth0 - Which OAuth 2.0 Flow](https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use) |
+| OpenID Connect | [openid.net/developers/how-connect-works](https://openid.net/developers/how-connect-works/) |
+| PKCE Explained | [Auth0 - PKCE](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow-with-pkce) |
+| OAuth Playground | [developers.google.com/oauthplayground](https://developers.google.com/oauthplayground/) |
+
+### Authorization (RBAC / ABAC)
+| Topic | Resource |
+|---|---|
+| CASL.js | [casl.js.org](https://casl.js.org/) — Isomorphic authorization library |
+| NestJS Authorization | [NestJS - Authorization](https://docs.nestjs.com/security/authorization) |
+| RBAC vs ABAC | [Auth0 - RBAC vs ABAC](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/) |
+
+### Web Security (OWASP)
+| Topic | Resource |
+|---|---|
+| OWASP Top 10 | [owasp.org/Top10](https://owasp.org/www-project-top-ten/) |
+| OWASP Cheat Sheets | [cheatsheetseries.owasp.org](https://cheatsheetseries.owasp.org/) — Security cheat sheets |
+| XSS Prevention | [OWASP - XSS Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) |
+| SQL Injection | [OWASP - SQL Injection](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html) |
+| CSRF Prevention | [OWASP - CSRF Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html) |
+| CORS Explained | [MDN - CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) |
+| Content Security Policy | [MDN - CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) |
+| Helmet.js | [helmetjs.github.io](https://helmetjs.github.io/) — Security headers for Express |
+| DOMPurify | [github.com/cure53/DOMPurify](https://github.com/cure53/DOMPurify) — XSS sanitizer |
+
+### Web3 Auth
+| Topic | Resource |
+|---|---|
+| Sign-In With Ethereum (SIWE) | [login.xyz](https://login.xyz/) — SIWE standard |
+| Privy Docs | [docs.privy.io](https://docs.privy.io/) |
+| Wallet-based Auth | [Phantom - Signing Messages](https://docs.phantom.app/solana/signing-a-message) |
+| NaCl (TweetNaCl.js) | [tweetnacl.js.org](https://tweetnacl.js.org/) — Crypto library for signature verification |
+
+### Security Testing
+| Topic | Resource |
+|---|---|
+| OWASP ZAP | [zaproxy.org](https://www.zaproxy.org/) — Free security scanner |
+| Snyk | [snyk.io](https://snyk.io/) — Dependency vulnerability scanning |
+| npm audit | [docs.npmjs.com/cli/audit](https://docs.npmjs.com/cli/v10/commands/npm-audit) |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [AI Integration](./09-ai-integration.md) | **Next**: [Behavioral & DSA](./11-behavioral-dsa.md)

@@ -1136,5 +1136,64 @@ export class RedisThrottlerStorage implements ThrottlerStorage {
 
 ---
 
+## References & Deep Dive Resources
+
+### Node.js Core
+| Topic | Resource |
+|---|---|
+| Node.js Event Loop | [Node.js Event Loop (Official)](https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick) |
+| Event Loop Visualized | [Lydia Hallie - JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif) |
+| Node.js Streams | [Node.js Streams Handbook](https://nodejs.org/api/stream.html) |
+| Streams Guide | [Node.js Streams: Everything You Need to Know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/) |
+| Worker Threads | [Node.js Worker Threads](https://nodejs.org/api/worker_threads.html) |
+| Cluster Module | [Node.js Cluster](https://nodejs.org/api/cluster.html) |
+| Error Handling | [Node.js Error Handling Best Practices](https://nodejs.org/en/learn/getting-started/nodejs-the-difference-between-development-and-production) |
+| Buffer | [Node.js Buffer API](https://nodejs.org/api/buffer.html) |
+| Node.js Best Practices | [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — 100+ best practices |
+
+### NestJS
+| Topic | Resource |
+|---|---|
+| NestJS Docs (Official) | [docs.nestjs.com](https://docs.nestjs.com/) |
+| Modules & DI | [NestJS - Modules](https://docs.nestjs.com/modules) |
+| Guards | [NestJS - Guards](https://docs.nestjs.com/guards) |
+| Interceptors | [NestJS - Interceptors](https://docs.nestjs.com/interceptors) |
+| Pipes | [NestJS - Pipes](https://docs.nestjs.com/pipes) |
+| Exception Filters | [NestJS - Exception Filters](https://docs.nestjs.com/exception-filters) |
+| Custom Decorators | [NestJS - Custom Decorators](https://docs.nestjs.com/custom-decorators) |
+| Microservices | [NestJS - Microservices](https://docs.nestjs.com/microservices/basics) |
+| WebSockets | [NestJS - WebSockets](https://docs.nestjs.com/websockets/gateways) |
+| SSE | [NestJS - Server-Sent Events](https://docs.nestjs.com/techniques/server-sent-events) |
+| CQRS | [NestJS - CQRS](https://docs.nestjs.com/recipes/cqrs) |
+| Execution Context | [NestJS - Execution Context](https://docs.nestjs.com/fundamentals/execution-context) |
+| NestJS Course (Free) | [NestJS Crash Course (Traversy)](https://www.youtube.com/watch?v=2n3xS89TJMI) |
+
+### Express
+| Topic | Resource |
+|---|---|
+| Express Guide | [expressjs.com](https://expressjs.com/en/guide/routing.html) |
+| Middleware | [Express - Using Middleware](https://expressjs.com/en/guide/using-middleware.html) |
+| Error Handling | [Express - Error Handling](https://expressjs.com/en/guide/error-handling.html) |
+| Security (helmet) | [helmetjs.github.io](https://helmetjs.github.io/) |
+
+### API Design
+| Topic | Resource |
+|---|---|
+| REST API Design | [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) |
+| REST Best Practices | [restfulapi.net](https://restfulapi.net/) |
+| GraphQL | [graphql.org/learn](https://graphql.org/learn/) |
+| gRPC | [grpc.io/docs](https://grpc.io/docs/) |
+| API Pagination | [Slack API - Pagination](https://api.slack.com/docs/pagination) — Great real-world example |
+| Rate Limiting Algorithms | [Cloudflare Blog - Rate Limiting](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/) |
+
+### ORM / Database Access
+| Topic | Resource |
+|---|---|
+| TypeORM Docs | [typeorm.io](https://typeorm.io/) |
+| Prisma Docs | [prisma.io/docs](https://www.prisma.io/docs/) |
+| Mongoose Docs | [mongoosejs.com](https://mongoosejs.com/docs/) |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [React & Next.js](./02-react-nextjs.md) | **Next**: [Databases](./04-databases.md)

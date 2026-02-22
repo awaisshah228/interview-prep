@@ -892,5 +892,50 @@ mongoose.connect(uri, {
 
 ---
 
+## References & Deep Dive Resources
+
+### MongoDB
+| Topic | Resource |
+|---|---|
+| MongoDB University (Free) | [university.mongodb.com](https://university.mongodb.com/) — Free official courses |
+| Aggregation Pipeline | [MongoDB - Aggregation](https://www.mongodb.com/docs/manual/aggregation/) |
+| Aggregation Stages | [MongoDB - Aggregation Pipeline Stages](https://www.mongodb.com/docs/manual/reference/operator/aggregation-pipeline/) |
+| Schema Design Patterns | [MongoDB Blog - Schema Design Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) |
+| Indexing Strategies | [MongoDB - Indexes](https://www.mongodb.com/docs/manual/indexes/) |
+| ESR Rule | [MongoDB - The ESR Rule](https://www.mongodb.com/docs/manual/tutorial/equality-sort-range-rule/) |
+| Transactions | [MongoDB - Transactions](https://www.mongodb.com/docs/manual/core/transactions/) |
+| Change Streams | [MongoDB - Change Streams](https://www.mongodb.com/docs/manual/changeStreams/) |
+| Performance Tuning | [MongoDB - Explain Results](https://www.mongodb.com/docs/manual/reference/explain-results/) |
+| Data Modeling (Video) | [MongoDB Schema Design Best Practices (YouTube)](https://www.youtube.com/watch?v=QAqK-R9HUhc) |
+
+### PostgreSQL
+| Topic | Resource |
+|---|---|
+| PostgreSQL Tutorial | [postgresqltutorial.com](https://www.postgresqltutorial.com/) — Great beginner-friendly site |
+| EXPLAIN ANALYZE | [PostgreSQL Wiki - Using EXPLAIN](https://wiki.postgresql.org/wiki/Using_EXPLAIN) |
+| EXPLAIN Visualizer | [explain.dalibo.com](https://explain.dalibo.com/) — Visual EXPLAIN ANALYZE tool |
+| Window Functions | [PostgreSQL - Window Functions](https://www.postgresql.org/docs/current/tutorial-window.html) |
+| Window Functions Guide | [Mode Analytics - Window Functions](https://mode.com/sql-tutorial/sql-window-functions) |
+| Indexing | [PostgreSQL - Indexes](https://www.postgresql.org/docs/current/indexes.html) |
+| JSON/JSONB | [PostgreSQL - JSON Types](https://www.postgresql.org/docs/current/datatype-json.html) |
+| Partitioning | [PostgreSQL - Table Partitioning](https://www.postgresql.org/docs/current/ddl-partitioning.html) |
+| CTEs | [PostgreSQL - WITH Queries (CTEs)](https://www.postgresql.org/docs/current/queries-with.html) |
+| Transaction Isolation | [PostgreSQL - Transaction Isolation](https://www.postgresql.org/docs/current/transaction-iso.html) |
+| PgBouncer | [pgbouncer.github.io](https://www.pgbouncer.org/) |
+| Use The Index, Luke | [use-the-index-luke.com](https://use-the-index-luke.com/) — SQL indexing & tuning bible |
+
+### General Database
+| Topic | Resource |
+|---|---|
+| ACID Properties | [Wikipedia - ACID](https://en.wikipedia.org/wiki/ACID) |
+| CAP Theorem | [Martin Kleppmann - Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) |
+| N+1 Query Problem | [DataLoader GitHub](https://github.com/graphql/dataloader) — Solves N+1 problem |
+| DB Normalization | [Database Normalization Explained](https://www.guru99.com/database-normalization.html) |
+| Connection Pooling | [PgBouncer - Connection Pooling](https://www.pgbouncer.org/features.html) |
+| SQL Practice | [SQLBolt.com](https://sqlbolt.com/) — Interactive SQL lessons |
+| DB Design Tool | [dbdiagram.io](https://dbdiagram.io/) — Visual database design |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [Node.js & NestJS](./03-nodejs-nestjs.md) | **Next**: [System Design](./05-system-design.md)

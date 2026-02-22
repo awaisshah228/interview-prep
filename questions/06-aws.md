@@ -653,5 +653,66 @@ For trading platform:
 
 ---
 
+## References & Deep Dive Resources
+
+### AWS General
+| Topic | Resource |
+|---|---|
+| AWS Documentation | [docs.aws.amazon.com](https://docs.aws.amazon.com/) |
+| AWS Well-Architected | [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) |
+| AWS Architecture Center | [aws.amazon.com/architecture](https://aws.amazon.com/architecture/) — Reference architectures |
+| AWS Skill Builder (Free) | [explore.skillbuilder.aws](https://explore.skillbuilder.aws/) — Free AWS training |
+| AWS re:Invent Videos | [AWS re:Invent (YouTube)](https://www.youtube.com/@AWSEventsChannel) |
+
+### Messaging (SQS, SNS)
+| Topic | Resource |
+|---|---|
+| SQS Developer Guide | [AWS SQS Docs](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/) |
+| SQS Standard vs FIFO | [AWS - SQS Queue Types](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-queue-types.html) |
+| SQS DLQ | [AWS - SQS Dead-Letter Queues](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html) |
+| SNS Developer Guide | [AWS SNS Docs](https://docs.aws.amazon.com/sns/latest/dg/) |
+| SNS Message Filtering | [AWS - SNS Filtering](https://docs.aws.amazon.com/sns/latest/dg/sns-subscription-filter-policies.html) |
+| Fan-out Pattern | [AWS - SNS + SQS Fan-out](https://docs.aws.amazon.com/sns/latest/dg/sns-common-scenarios.html) |
+| EventBridge | [AWS EventBridge Docs](https://docs.aws.amazon.com/eventbridge/) |
+
+### Compute (ECS, Lambda)
+| Topic | Resource |
+|---|---|
+| ECS Developer Guide | [AWS ECS Docs](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/) |
+| Fargate | [AWS - Fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html) |
+| ECS Task Definitions | [AWS - Task Definitions](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html) |
+| Lambda Developer Guide | [AWS Lambda Docs](https://docs.aws.amazon.com/lambda/latest/dg/) |
+| Lambda Cold Starts | [AWS - Lambda Performance](https://docs.aws.amazon.com/lambda/latest/operatorguide/perf-optimize.html) |
+| Lambda Best Practices | [AWS - Lambda Best Practices](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html) |
+
+### Storage & Database
+| Topic | Resource |
+|---|---|
+| S3 Developer Guide | [AWS S3 Docs](https://docs.aws.amazon.com/AmazonS3/latest/userguide/) |
+| S3 Storage Classes | [AWS - S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/) |
+| DynamoDB Developer Guide | [AWS DynamoDB Docs](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/) |
+| DynamoDB Single Table | [Alex DeBrie - DynamoDB Book](https://www.dynamodbbook.com/) — Best DynamoDB resource |
+| DynamoDB Design Patterns | [AWS re:Invent - DynamoDB Advanced Design](https://www.youtube.com/watch?v=6yqfmXiZTlM) |
+| RDS | [AWS RDS Docs](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/) |
+| ElastiCache | [AWS ElastiCache Docs](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/) |
+
+### Networking & Security
+| Topic | Resource |
+|---|---|
+| VPC | [AWS VPC Docs](https://docs.aws.amazon.com/vpc/latest/userguide/) |
+| VPC Explained (Video) | [AWS VPC Beginner to Pro (YouTube)](https://www.youtube.com/watch?v=g2JOHLHh4rI) |
+| Security Groups vs NACLs | [AWS - Security Groups vs NACLs](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html) |
+| IAM | [AWS IAM Docs](https://docs.aws.amazon.com/IAM/latest/UserGuide/) |
+| IAM Policy Simulator | [policysim.aws.amazon.com](https://policysim.aws.amazon.com/) |
+
+### Cost & DR
+| Topic | Resource |
+|---|---|
+| AWS Pricing Calculator | [calculator.aws](https://calculator.aws/) |
+| AWS Cost Optimization | [AWS - Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html) |
+| DR Strategies | [AWS - Disaster Recovery Workloads](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html) |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [System Design](./05-system-design.md) | **Next**: [DevOps](./07-devops.md)

@@ -890,5 +890,86 @@ transaction.add(
 
 ---
 
+## References & Deep Dive Resources
+
+### Blockchain Fundamentals
+| Topic | Resource |
+|---|---|
+| Blockchain Basics | [ethereum.org - Intro to Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum/) |
+| Consensus Mechanisms | [ethereum.org - Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/) |
+| Web3 University (Free) | [web3.university](https://www.web3.university/) |
+| Crypto Zombies | [cryptozombies.io](https://cryptozombies.io/) — Interactive Solidity course |
+
+### Solana
+| Topic | Resource |
+|---|---|
+| Solana Docs (Official) | [solana.com/docs](https://solana.com/docs) |
+| Solana Cookbook | [solanacookbook.com](https://solanacookbook.com/) — Practical recipes |
+| Solana Account Model | [Solana Docs - Accounts](https://solana.com/docs/core/accounts) |
+| PDAs Explained | [Solana Docs - PDAs](https://solana.com/docs/core/pda) |
+| CPIs Explained | [Solana Docs - CPIs](https://solana.com/docs/core/cpi) |
+| Transactions | [Solana Docs - Transactions](https://solana.com/docs/core/transactions) |
+| SPL Token | [spl.solana.com/token](https://spl.solana.com/token) |
+| Token-2022 | [spl.solana.com/token-2022](https://spl.solana.com/token-2022) |
+| Solana Playground | [beta.solpg.io](https://beta.solpg.io/) — Browser IDE for Solana |
+| Solana Stack Exchange | [solana.stackexchange.com](https://solana.stackexchange.com/) |
+| Solana Bytes (YouTube) | [Solana Foundation (YouTube)](https://www.youtube.com/@SolanaFndn) |
+
+### Anchor Framework
+| Topic | Resource |
+|---|---|
+| Anchor Docs | [anchor-lang.com](https://www.anchor-lang.com/) |
+| Anchor Book | [book.anchor-lang.com](https://book.anchor-lang.com/) — Comprehensive guide |
+| Anchor Examples | [coral-xyz/anchor/examples](https://github.com/coral-xyz/anchor/tree/master/examples) |
+| Anchor by Example | [examples.anchor-lang.com](https://examples.anchor-lang.com/) |
+| Soldev.app | [soldev.app](https://soldev.app/) — Curated Solana dev resources |
+
+### Ethereum & EVM
+| Topic | Resource |
+|---|---|
+| Ethereum Docs | [ethereum.org/developers](https://ethereum.org/en/developers/) |
+| Solidity Docs | [docs.soliditylang.org](https://docs.soliditylang.org/) |
+| ERC Standards | [ethereum.org - Token Standards](https://ethereum.org/en/developers/docs/standards/tokens/) |
+| Ethers.js Docs | [docs.ethers.org](https://docs.ethers.org/) |
+| Viem Docs | [viem.sh](https://viem.sh/) — Modern alternative to ethers.js |
+| Hardhat | [hardhat.org](https://hardhat.org/) — Ethereum dev environment |
+
+### DeFi
+| Topic | Resource |
+|---|---|
+| DeFi MOOC (Free) | [defi-learning.org](https://defi-learning.org/) — Stanford/Berkeley course |
+| AMM Explained | [Uniswap V2 Docs](https://docs.uniswap.org/contracts/v2/concepts/protocol-overview/how-uniswap-works) |
+| Impermanent Loss | [Chainlink - Impermanent Loss](https://chain.link/education-hub/impermanent-loss) |
+| DeFi Llama | [defillama.com](https://defillama.com/) — DeFi analytics |
+| Raydium Docs | [docs.raydium.io](https://docs.raydium.io/) — Solana AMM |
+| Jupiter Docs | [station.jup.ag/docs](https://station.jup.ag/docs/) — Solana DEX aggregator |
+
+### Wallet Integration
+| Topic | Resource |
+|---|---|
+| Privy Docs | [docs.privy.io](https://docs.privy.io/) |
+| Solana Wallet Adapter | [github.com/anza-xyz/wallet-adapter](https://github.com/anza-xyz/wallet-adapter) |
+| Phantom Docs | [docs.phantom.app](https://docs.phantom.app/) |
+| MetaMask Docs | [docs.metamask.io](https://docs.metamask.io/) |
+
+### Indexing & Data
+| Topic | Resource |
+|---|---|
+| Helius Docs | [docs.helius.dev](https://docs.helius.dev/) |
+| Helius DAS API | [docs.helius.dev/solana-apis/digital-asset-standard-das-api](https://docs.helius.dev/solana-apis/digital-asset-standard-das-api) |
+| Geyser gRPC | [docs.triton.one/project-yellowstone/yellowstone-grpc](https://docs.triton.one/project-yellowstone/yellowstone-grpc) |
+| Pyth Network | [docs.pyth.network](https://docs.pyth.network/) |
+| Switchboard | [docs.switchboard.xyz](https://docs.switchboard.xyz/) |
+| Solana Explorer | [explorer.solana.com](https://explorer.solana.com/) |
+| Solscan | [solscan.io](https://solscan.io/) |
+
+### Payments
+| Topic | Resource |
+|---|---|
+| NowPayments Docs | [nowpayments.io/help](https://nowpayments.io/help) |
+| Solana Pay | [docs.solanapay.com](https://docs.solanapay.com/) |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [DevOps](./07-devops.md) | **Next**: [AI Integration](./09-ai-integration.md)

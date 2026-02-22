@@ -1253,5 +1253,72 @@ Cypress.Commands.add('login', (email, password) => {
 
 ---
 
+## References & Deep Dive Resources
+
+### React Core
+| Topic | Resource |
+|---|---|
+| React Official Docs | [react.dev](https://react.dev/) — New official docs (App Router era) |
+| Fiber Architecture | [React Fiber Architecture (GitHub)](https://github.com/acdlite/react-fiber-architecture) — Andrew Clark's deep dive |
+| Reconciliation | [react.dev - Preserving and Resetting State](https://react.dev/learn/preserving-and-resetting-state) |
+| Virtual DOM Explained | [React.js: The Documentary (YouTube)](https://www.youtube.com/watch?v=8pDqJVdNa44) |
+| React Rendering Behavior | [Mark Erikson - React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/) |
+
+### React Hooks
+| Topic | Resource |
+|---|---|
+| Hooks Reference | [react.dev - Hooks](https://react.dev/reference/react/hooks) |
+| useEffect Deep Dive | [Dan Abramov - A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) |
+| useMemo/useCallback | [Kent C. Dodds - When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback) |
+| useRef | [react.dev - useRef](https://react.dev/reference/react/useRef) |
+| useReducer | [react.dev - useReducer](https://react.dev/reference/react/useReducer) |
+| Custom Hooks | [react.dev - Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks) |
+
+### React Performance
+| Topic | Resource |
+|---|---|
+| React.memo | [react.dev - memo](https://react.dev/reference/react/memo) |
+| React DevTools Profiler | [react.dev - Profiler](https://react.dev/reference/react/Profiler) |
+| React Compiler | [react.dev - React Compiler](https://react.dev/learn/react-compiler) — Auto-memoization |
+| Million.js | [million.dev](https://million.dev/) — React performance optimization |
+
+### React Concurrent Features
+| Topic | Resource |
+|---|---|
+| useTransition | [react.dev - useTransition](https://react.dev/reference/react/useTransition) |
+| useDeferredValue | [react.dev - useDeferredValue](https://react.dev/reference/react/useDeferredValue) |
+| Suspense | [react.dev - Suspense](https://react.dev/reference/react/Suspense) |
+| Error Boundaries | [react.dev - Error Boundary](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary) |
+
+### Next.js
+| Topic | Resource |
+|---|---|
+| Next.js Docs | [nextjs.org/docs](https://nextjs.org/docs) — Official documentation |
+| App Router | [nextjs.org - App Router](https://nextjs.org/docs/app) |
+| Server Components | [nextjs.org - Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components) |
+| Caching | [nextjs.org - Caching](https://nextjs.org/docs/app/building-your-application/caching) |
+| Server Actions | [nextjs.org - Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations) |
+| Middleware | [nextjs.org - Middleware](https://nextjs.org/docs/app/building-your-application/routing/middleware) |
+| Parallel Routes | [nextjs.org - Parallel Routes](https://nextjs.org/docs/app/building-your-application/routing/parallel-routes) |
+| Lee Robinson (YouTube) | [Lee Robinson](https://www.youtube.com/@laborb) — Next.js core team tutorials |
+| Vercel Blog | [vercel.com/blog](https://vercel.com/blog) — Latest Next.js features |
+
+### State Management
+| Topic | Resource |
+|---|---|
+| Zustand Docs | [zustand GitHub](https://github.com/pmndrs/zustand) |
+| Zustand Tutorial | [TkDodo - Working with Zustand](https://tkdodo.eu/blog/working-with-zustand) |
+| Context vs Zustand | [react.dev - Scaling Up with Context](https://react.dev/learn/scaling-up-with-reducer-and-context) |
+
+### Testing
+| Topic | Resource |
+|---|---|
+| Testing Library | [testing-library.com](https://testing-library.com/docs/react-testing-library/intro/) |
+| Kent C. Dodds Testing | [Testing JavaScript](https://testingjavascript.com/) |
+| Cypress Docs | [docs.cypress.io](https://docs.cypress.io/) |
+| Jest Docs | [jestjs.io](https://jestjs.io/docs/getting-started) |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [JavaScript & TypeScript](./01-javascript-typescript.md) | **Next**: [Node.js, NestJS & Express](./03-nodejs-nestjs.md)

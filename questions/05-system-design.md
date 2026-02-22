@@ -674,5 +674,55 @@ Why Cassandra:
 
 ---
 
+## References & Deep Dive Resources
+
+### System Design Fundamentals
+| Topic | Resource |
+|---|---|
+| System Design Primer | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) — Best free resource |
+| Designing Data-Intensive Applications | [DDIA Book (Martin Kleppmann)](https://dataintensive.net/) — The bible of system design |
+| Alex Xu - System Design | [bytebytego.com](https://bytebytego.com/) — Best paid course |
+| ByteByteGo YouTube | [ByteByteGo (YouTube)](https://www.youtube.com/@ByteByteGo) — Free system design videos |
+| Grokking System Design | [educative.io - Grokking](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers) |
+
+### Architecture Patterns
+| Topic | Resource |
+|---|---|
+| Microservices | [microservices.io](https://microservices.io/) — Patterns catalog by Chris Richardson |
+| Event-Driven Architecture | [AWS - Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/) |
+| CQRS | [Martin Fowler - CQRS](https://martinfowler.com/bliki/CQRS.html) |
+| Event Sourcing | [Martin Fowler - Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) |
+| Saga Pattern | [microservices.io - Saga](https://microservices.io/patterns/data/saga.html) |
+| Circuit Breaker | [Martin Fowler - Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) |
+| API Gateway | [microservices.io - API Gateway](https://microservices.io/patterns/apigateway.html) |
+| DDD (Domain-Driven Design) | [DDD Reference by Eric Evans](https://www.domainlanguage.com/ddd/reference/) |
+
+### Scalability
+| Topic | Resource |
+|---|---|
+| Load Balancing | [NGINX - Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/) |
+| Caching Strategies | [AWS - Caching Best Practices](https://aws.amazon.com/caching/best-practices/) |
+| Database Sharding | [Vitess - Sharding](https://vitess.io/docs/concepts/shard/) |
+| CDN | [Cloudflare - What is a CDN?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/) |
+| Message Queues | [AWS - Message Queuing](https://aws.amazon.com/message-queue/) |
+
+### System Design Interview Problems
+| Topic | Resource |
+|---|---|
+| Design YouTube | [ByteByteGo - YouTube](https://www.youtube.com/watch?v=jPKTo1iGQiE) |
+| Design WhatsApp | [Gaurav Sen - WhatsApp (YouTube)](https://www.youtube.com/watch?v=vvhC64hQZMk) |
+| Design Twitter | [System Design Primer - Twitter](https://github.com/donnemartin/system-design-primer/tree/master#design-the-twitter-timeline-and-search) |
+| Design URL Shortener | [System Design Primer - URL Shortener](https://github.com/donnemartin/system-design-primer/tree/master#design-pastebin) |
+| High Scalability Blog | [highscalability.com](http://highscalability.com/) — Real-world architecture case studies |
+
+### Diagramming Tools
+| Topic | Resource |
+|---|---|
+| Excalidraw | [excalidraw.com](https://excalidraw.com/) — Whiteboard for system design |
+| draw.io | [draw.io](https://app.diagrams.net/) — Free diagramming |
+| Mermaid | [mermaid.js.org](https://mermaid.js.org/) — Markdown-based diagrams |
+
+---
+
 > **Back to main**: [INTERVIEW_ROADMAP.md](../INTERVIEW_ROADMAP.md)
 > **Prev**: [Databases](./04-databases.md) | **Next**: [AWS Cloud](./06-aws.md)
