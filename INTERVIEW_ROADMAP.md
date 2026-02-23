@@ -19,6 +19,7 @@
 | 9 | AI Integration | [09-ai-integration.md](./questions/09-ai-integration.md) | 9 |
 | 10 | Security & Authentication | [10-security-auth.md](./questions/10-security-auth.md) | 6 |
 | 11 | Behavioral & DSA | [11-behavioral-dsa.md](./questions/11-behavioral-dsa.md) | 8 + patterns |
+| 12 | GraphQL | [12-graphql.md](./questions/12-graphql.md) | 22 |
 | - | **All-in-one (combined)** | [INTERVIEW_QA.md](./INTERVIEW_QA.md) | 46 |
 
 ---
